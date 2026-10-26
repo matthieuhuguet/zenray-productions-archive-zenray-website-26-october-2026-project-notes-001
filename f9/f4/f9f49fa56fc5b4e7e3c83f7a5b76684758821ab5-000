@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-website-26-october-2026",
- "scannedAt": "2026-10-26T15:17:44.004Z",
+ "scannedAt": "2026-10-26T15:33:52.567Z",
  "conversations": [
   {
    "projectId": "zenray-website-26-october-2026",
@@ -22,6 +22,22 @@
   {
    "projectId": "zenray-website-26-october-2026",
    "lines": 1,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-26T15:27:50.887Z",
+   "last": "2026-10-26T15:27:50.887Z",
+   "strength": "weak",
+   "conversationId": "gemini:47db1439-795e-40c8-afd3-9e2e0fedb666",
+   "provider": "gemini",
+   "sessionId": "47db1439-795e-40c8-afd3-9e2e0fedb666",
+   "title": "Conversation Gemini 47db1439",
+   "updatedAt": "2026-10-26T15:28:36.440Z",
+   "bytes": 1048576,
+   "boundProject": "zenray-website-26-october-2026"
+  },
+  {
+   "projectId": "zenray-website-26-october-2026",
+   "lines": 1,
    "work": 0,
    "prompts": 0,
    "first": "2026-10-26T15:14:44.431Z",
@@ -31,8 +47,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-26T15:17:27.553Z",
-   "bytes": 410351162,
+   "updatedAt": "2026-10-26T15:30:26.754Z",
+   "bytes": 410534611,
    "boundProject": "zenray-meshes"
   }
  ]

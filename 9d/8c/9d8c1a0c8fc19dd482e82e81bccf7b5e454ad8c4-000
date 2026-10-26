@@ -51,3 +51,56 @@
 > Le dépôt du site est référencé dans Assets ; sa surveillance n’est pas activée. (26 October 2026, 16:16:33 +0100)
 >
 > [/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026/index.html](/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026/index.html) (26 October 2026, 16:16:33 +0100)
+
+## 26 October 2026, 16:26:03 +0100 : Prompt
+
+<!-- feedback-event:8d550a3f85ee450e9fa72a874f56d404b99aab2e5b5ae1e07303507e01f04a29 (26 October 2026, 16:26:03 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 16:26:03 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 16:26:03 +0100)
+
+> depuis cette conversation lis le contexte : codex://threads/01a178bf-e894-7953-ae90-19152837f180 (26 October 2026, 16:26:03 +0100)
+>
+>
+> Et il y avait déjà du coup un document HTML qui avait déjà été produit. (26 October 2026, 16:26:03 +0100)
+>
+>
+>
+>
+> "Hi, I'm Matthieu (@zenray), a 3D Technical Artist specializing in Houdini and Unreal Engine. I design procedural pipelines and custom tools that help studios scale production, automate workflows, and ship environments at a high visual standard. From procedural modeling to code pipeline architecture, I build the tools your team needs. Let's talk! (26 October 2026, 16:26:03 +0100)
+>
+> " (26 October 2026, 16:26:03 +0100)
+>
+>
+>
+>
+> Et à partir du coup de ce document HTML et de ses modifications via ZenRay Edit, j'aimerais faire en sorte que le I'm Mathieu, donc je vais te donner le texte, donc ce texte, il soit possible de... En fait, tous les... En fait, le plus simple, c'est que tu fasses une seule vue, enfin, plusieurs vues, si tu veux, où tu focuses à... une fois sur GT Ultra, une autre sur Literata, une autre sur GT Standard L, et que tu puisses me permettre d'intervertir les fontes par rapport à certains éléments. Mais il faut que tous les éléments de la page qui comportent une police soient modifiables via des sliders. Donc en fait, il faut juste aller plus loin dans le document pour me permettre de tout modifier. Il y a des sections que j'aimerais modifier, par exemple, pouvoir tester soit Literata, soit GT Ultra, soit GT Standard L. Enfin, en règle générale, le corps, c'est surtout soit GT Ultra... non, pardon. Le corps, c'est soit Literata, soit GT Standard L. Les titres, c'est très souvent Literata. Non, les titres, pas du tout. C'est très souvent GT Ultra. Et enfin, tout le reste de l'UI, c'est très souvent GT Standard L. Mais le but, c'est que toute l'UI soit personnalisable. Tu peux... Ouais, en soi, tu focuses sur trois vues, tu me permets de tout modifier, et tu ajoutes aussi les components qui n'étaient pas modifiables en termes de texte actuellement. (26 October 2026, 16:26:03 +0100)
+
+## 26 October 2026, 16:27:25 +0100 : Prompt
+
+<!-- feedback-event:08280f3b8e7eff8dc1eed44a3d64cebbd90d166cf18ea4c2d36c18ae0f9257de (26 October 2026, 16:27:25 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 16:27:25 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 16:27:25 +0100)
+
+> Du coup, tu as bien compris qu'il s'agissait d'un truc pour le website. ?  (26 October 2026, 16:27:25 +0100)
+>
+>  ? Je vérifie que le skill coordinator ait bien marché en soi. Sinon, il faudra modifier certains trucs dans le skill pour qu'il fonctionne dans 100% des cas. (26 October 2026, 16:27:25 +0100)
+
+## 26 October 2026, 16:27:50 +0100 : Iteration
+
+<!-- feedback-event:6ee88c401df898203e65b75f7c9a2be82ba1a78c949e423a14994fcd972ed3ff (26 October 2026, 16:27:50 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 16:27:50 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 16:27:50 +0100)
+
+> ### Contexte de session (`PROGRESS.md`) (26 October 2026, 16:27:50 +0100)
+>
+> - **26 October 2026 16:15** (`zenray-meshes`) : Décomposition organique de l'arbre et avancée des composants géométriques. (26 October 2026, 16:27:50 +0100)
+> - **26 October 2026 16:15** (`ZenRayWebsite`) : Trois maquettes HTML de Works avec comparaison GT Ultra, Literata et GT Standard L, projet Assets créé. (26 October 2026, 16:27:50 +0100)
+> - **26 October 2026 16:26** (`ZenRayProgress`) : Refonte de la galerie ToDo-3D avec titres GT Ultra 400 et (26 October 2026, 16:27:50 +0100)
+
+## 26 October 2026, 16:34:11 +0100 : Prompt
+
+<!-- feedback-event:82e665d7947434fe6e3a2c26bf6176b6d12ee200cb2ca8e0914bc3445880c93e (26 October 2026, 16:34:11 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 16:34:11 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 16:34:11 +0100)
+
+> Go, là, t'as rien changé. Je peux toujours pas modifier les trucs des corps, etc. Dépêche-toi. (26 October 2026, 16:34:11 +0100)

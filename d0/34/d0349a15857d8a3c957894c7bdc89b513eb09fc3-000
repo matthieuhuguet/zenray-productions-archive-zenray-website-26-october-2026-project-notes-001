@@ -1,14 +1,14 @@
-# Resume zenray-website-26-october-2026 (26 October 2026 at 16:10)
+# Resume zenray-website-26-october-2026 (26 October 2026 at 16:27)
 
-- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (26 October 2026 at 16:10)
-- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/zenray-website-26-october-2026/Rules.md) (0 rules). (26 October 2026 at 16:10)
-- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-website-26-october-2026/FEEDBACK.md), 2 entries, last Prompt at 26 October 2026, 16:10:03 +0100. (26 October 2026 at 16:10)
+- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (26 October 2026 at 16:27)
+- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/zenray-website-26-october-2026/Rules.md) (1 rules). (26 October 2026 at 16:27)
+- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-website-26-october-2026/FEEDBACK.md), 5 entries, last Iteration at 26 October 2026, 16:16:33 +0100. (26 October 2026 at 16:27)
 
-## Latest conversations (26 October 2026 at 16:10)
+## Latest conversations (26 October 2026 at 16:27)
 
-- LATEST codex:01a178bf-e894-7953-ae90-19152837f180, last activity 26 October 2026 at 16:10 Paris (from feedback). Original: `node scripts/Assets/ConversationDigest.mjs codex:01a178bf-e894-7953-ae90-19152837f180 --out <file.md>`. (26 October 2026 at 16:10)
+- LATEST codex:01a178bf-e894-7953-ae90-19152837f180, « Conversation codex 01a178bf », last activity 26 October 2026 at 16:16 Paris (from transcript). Original: `node scripts/Assets/ConversationDigest.mjs codex:01a178bf-e894-7953-ae90-19152837f180 --out <file.md>`. (26 October 2026 at 16:27)
 
-## Last 6 prompts of Matthieu, oldest first (26 October 2026 at 16:10)
+## Last 6 prompts of Matthieu, oldest first (26 October 2026 at 16:27)
 
 ### 26 October 2026, 16:10:03 +0100 · Prompt · codex:01a178bf
 
@@ -16,12 +16,29 @@
 > [... 1400 more characters in FEEDBACK.md]
 
 
-## Last 3 iterations or checkpoints (26 October 2026 at 16:10)
+## Last 3 iterations or checkpoints (26 October 2026 at 16:27)
 
-- None recorded. (26 October 2026 at 16:10)
+### 26 October 2026, 16:16:00 +0100 · Iteration · checkpoint codex:01a178bf
 
-## Last order of work (26 October 2026 at 16:10)
+> Three Works typography HTML proposals created, embedded fonts, independent title/brand/UI selectors including GT America, size slider and desktop/mobile. Isolated Chromium verification: all expected font faces loaded, unchanged text between variants, no horizontal overflow, no JavaScript errors. HTML filed through zenray-edit in both projects. Published site and dirty production files unchanged. Production repo linked as metadata reference only, outside watcher roots. Next: user chooses settings, then apply to Works only.
 
-- None recorded. (26 October 2026 at 16:10)
+### 26 October 2026, 16:16:33 +0100 · Iteration · codex:01a178bf
 
-Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (26 October 2026 at 16:10)
+> Les trois propositions sont prêtes : **A GT Ultra**, **B Literata**, **C GT Standard L** pour les titres. Chacune propose des menus pour les titres, « ZenRay » et l’interface, avec GT America disponible, un curseur de taille et les vues bureau/mobile.
+> 
+> | Ce que tu voulais | État | Preuve |
+> |---|---|---|
+> | Trois maquettes Works | Fait | Polices chargées, aucun débordement aux deux formats |
+> | Contenu conservé | Fait | Textes identiques entre variantes, site publié inchangé |
+> | Liaison Assets | Fait | Projet et conversation liés, maquettes classées dans Website et Edit |
+> | Sauvegarde cloud | Attente | Envoi en file, pas encore confirmé |
+> 
+> Le dépôt du site est référencé dans Assets ; sa surveil
+> [... 172 more characters in FEEDBACK.md]
+
+
+## Last order of work (26 October 2026 at 16:27)
+
+- None recorded. (26 October 2026 at 16:27)
+
+Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (26 October 2026 at 16:27)
