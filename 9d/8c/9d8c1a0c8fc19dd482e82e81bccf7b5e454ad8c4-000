@@ -104,3 +104,114 @@
 - Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 16:34:11 +0100)
 
 > Go, là, t'as rien changé. Je peux toujours pas modifier les trucs des corps, etc. Dépêche-toi. (26 October 2026, 16:34:11 +0100)
+
+## 26 October 2026, 16:39:16 +0100 : Iteration
+
+<!-- feedback-event:72aae3479a77656591640c42c8ee4d614e8151d8f2f4b901de6b45a90dfb8d38 (26 October 2026, 16:39:16 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 16:39:16 +0100)
+
+> Studio typographique Works enrichi : 3 vues focus (GT Ultra, Literata, GT Standard L), texte d'accroche Matthieu éditable en direct, curseurs paramétriques HDA pour tous les composants (titres, bio, corps, sous-titres, interface, nombres, marque) et export CSS :root. (26 October 2026, 16:39:16 +0100)
+
+## 26 October 2026, 16:39:48 +0100 : Iteration
+
+<!-- feedback-event:49d283fd26bfce64dc4b5820e691fdc52f5a362cd54201432ab96f5db3baeaae (26 October 2026, 16:39:48 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 16:39:48 +0100)
+- Source: checkpoint:antigravity:47db1439-795e-40c8-afd3-9e2e0fedb666. (26 October 2026, 16:39:48 +0100)
+
+> Works typography studio V2 : 3 focus views (GT Ultra, Literata, GT Standard L), live bio editing, and full HDA parametric sliders for titles, bio, body, subtitles, UI, numbers, brand. (26 October 2026, 16:39:48 +0100)
+
+## 26 October 2026, 16:40:27 +0100 : Iteration
+
+<!-- feedback-event:fd441cfa75cd7b0ebfe397a74052c9fa70960e9763cb781944f53210aed094e0 (26 October 2026, 16:40:27 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 16:40:27 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 16:40:27 +0100)
+
+> Le studio typographique de la page Works est mis à jour et disponible ici : (26 October 2026, 16:40:27 +0100)
+> [`/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026/index.html`](file:///Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026/index.html) (26 October 2026, 16:40:27 +0100)
+>
+> ### Ce qui a été ajouté et paramétré (26 October 2026, 16:40:27 +0100)
+>
+> 1. **Trois vues ciblées et bascule instantanée** : (26 October 2026, 16:40:27 +0100)
+>    - **Vue A (GT Ultra)** : Titres et nombres en GT Ultra, corps et bio en Literata, UI en GT Standard L. (26 October 2026, 16:40:27 +0100)
+>    - **Vue B (Literata)** : Titres, corps et bio en Literata, nombres en GT Ultra, UI en GT Standard L. (26 October 2026, 16:40:27 +0100)
+>    - **Vue C (GT Standard L)** : Tout en GT Standard L (style architectural épuré), nombres en GT Ultra. (26 October 2026, 16:40:27 +0100)
+>    - Onglet **« Comparer les 3 vues »** pour les afficher côte à côte. (26 October 2026, 16:40:27 +0100)
+>
+> 2. **Accroche Matthieu (@ (26 October 2026, 16:40:27 +0100)
+
+## 26 October 2026, 17:03:04 +0100 : Prompt
+
+<!-- feedback-event:99ac13089181efc4b96d4de665101a58cb719950f32c465e45a440a543f2114b (26 October 2026, 17:03:04 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 17:03:04 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:03:04 +0100)
+
+> :root { (26 October 2026, 17:03:04 +0100)
+>   /* Preset: GT Ultra Focus */ (26 October 2026, 17:03:04 +0100)
+>   --font-title: 'GT Ultra', sans-serif; (26 October 2026, 17:03:04 +0100)
+>   --weight-title: 400; (26 October 2026, 17:03:04 +0100)
+>   --lh-title: 1.15; (26 October 2026, 17:03:04 +0100)
+>   --ls-title: -0.02em; (26 October 2026, 17:03:04 +0100)
+>   --scale-title: 100%; (26 October 2026, 17:03:04 +0100)
+>
+>   --font-bio: 'GT Ultra', serif; (26 October 2026, 17:03:04 +0100)
+>   --weight-bio: 400; (26 October 2026, 17:03:04 +0100)
+>   --lh-bio: 1.65; (26 October 2026, 17:03:04 +0100)
+>   --ls-bio: 0em; (26 October 2026, 17:03:04 +0100)
+>   --scale-bio: 100%; (26 October 2026, 17:03:04 +0100)
+>
+>   --font-body: 'GT Ultra', serif; (26 October 2026, 17:03:04 +0100)
+>   --weight-body: 400; (26 October 2026, 17:03:04 +0100)
+>   --lh-body: 1.65; (26 October 2026, 17:03:04 +0100)
+>   --ls-body: 0em; (26 October 2026, 17:03:04 +0100)
+>   --scale-body: 100%; (26 October 2026, 17:03:04 +0100)
+>
+>   --font-sub: 'GT Ultra', sans-serif; (26 October 2026, 17:03:04 +0100)
+>   --weight-sub: 400; (26 October 2026, 17:03:04 +0100)
+>   --lh-sub: 1.4; (26 October 2026, 17:03:04 +0100)
+>   --ls-sub: 0.02em; (26 October 2026, 17:03:04 +0100)
+>   --scale-sub: 100%; (26 October 2026, 17:03:04 +0100)
+>
+>   --font-ui: 'GT Ultra', sans-serif; (26 October 2026, 17:03:04 +0100)
+>   --weight-ui: 400; (26 October 2026, 17:03:04 +0100)
+>   --lh-ui: 1.3; (26 October 2026, 17:03:04 +0100)
+>   --ls-ui: 0.01em; (26 October 2026, 17:03:04 +0100)
+>   --scale-ui: 100%; (26 October 2026, 17:03:04 +0100)
+>
+>   --font-brand: 'GT Ultra', sans-serif; (26 October 2026, 17:03:04 +0100)
+>   --ls-brand: -0.02em; (26 October 2026, 17:03:04 +0100)
+>   --scale-brand: 100%; (26 October 2026, 17:03:04 +0100)
+>
+>   --font-num: 'GT Ultra', sans-serif; (26 October 2026, 17:03:04 +0100)
+>   --ls-num: 0em; (26 October 2026, 17:03:04 +0100)
+>   --scale-num: 100%; (26 October 2026, 17:03:04 +0100)
+> } (26 October 2026, 17:03:04 +0100)
+>
+>
+>
+>
+>
+>
+> En fait, pour l'instant, tu peux quasi tout mettre en GT Ultra. En revanche, je vais te dire les choses qu'il faut modifier. Donc les trucs là, par exemple, sur les boutons Louisiana Bayou et Texturing, ça n'a pas mis GT Ultra. Donc mes GT Ultra aussi. Pour le ZenRay, donc le truc qui est à côté de la brand, mets-le en bold. Pour Core et Workflows, Automation et Tooling, vérifie que ce soit bien espacé par rapport aux icônes. Et enfin, pour les icônes... enfin, c'est pas des icônes, mais pour la galerie 3D et pour la galerie des images, en règle générale, il faut que t'enlèves, en fait... En fait, des fois, il y a marqué Houdini et Unreal, ou Houdini, Copernicus. En fait, ça crée une galerie, alors qu'en fait, il n'y a pas besoin. Il y a juste besoin du titre. Et le titre, il est déjà bien, et il est en GT Ultra, du coup. Donc voilà, tu peux push sur le tu peux push sur tout ça. Et en fait, au final, ouais, ça marche bien de tout mettre en GT Ultra. pour cette page /works en tout cas go et déploie. sans aucune erreur. (26 October 2026, 17:03:04 +0100)
+>
+>
+>
+>
+>
+>
+> A ce niveau : Core (26 October 2026, 17:03:04 +0100)
+> Workflows, Automation, Tooling (26 October 2026, 17:03:04 +0100)
+>
+>
+>
+>
+> En fait, enlève l'icône de GitHub. Non, pas celle de GitHub. Enlève l'icône de curseur. Et en fait, mets dans un tableau les 6 icônes comme si elles appartenaient à un tableau. Mais fais en sorte que le tableau soit très très beau, design et élégant. Et surtout qu'il soit aligné par rapport à core et workflows, automation et tooling. Parce que du coup, ça fait 3 icônes et 3 icônes. Et en soi, je pense qu'on... Je pense qu'on peut enlever workflows et automation et on peut juste mettre le tools, T-O-O-L-S. Et comme ça, on remplace et on met à la même taille de fonte, etc. (26 October 2026, 17:03:04 +0100)
+>
+>
+>
+>
+> "Hi, I'm Matthieu (@zenray), a 3D Technical Artist specializing in Houdini and Unreal Engine. I design procedural pipelines and custom tools that help studios scale production, automate workflows, and ship environments at a high visual standard. From procedural modeling to code pipeline architecture, I build the tools your team needs. Let's talk!" Le seul truc que je vais garder en GT standard L, c'est ce passage. Et ce que je vais faire, c'est que le @ZenRay, donc qui est écrit en petit, ben lui, je le mets en GT ultra. (26 October 2026, 17:03:04 +0100)
+>
+>
+>
+>
+> ok go (26 October 2026, 17:03:04 +0100)

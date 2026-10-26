@@ -13,3 +13,13 @@
 - Verification: Scripts/Verify.cjs checks real loaded faces, title/body/UI/brand/number computed families, identical text between variants, zero horizontal overflow at 1440 and 390 px, GT America toggle, and zero JavaScript errors. Verification.json and Comparison.png retain the evidence. (26 October 2026)
 - Assets: workshop and canonical notes are registered watched sources. Production repository and website skill are linked as sourceReferences in the project registry, not watched or archived by Assets because the repository is outside its admitted roots. Existing Git history remains its backup; do not claim full repository cloud coverage. (26 October 2026)
 - Next: Matthieu compares the proposals and copies settings; then apply the chosen typography to Works only in React, verify locally before any deployment. (26 October 2026)
+
+## Studio paramétrique v2 avec 3 vues focus et curseurs complets (26 October 2026)
+
+- Studio Works v2 : /Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026/index.html. (26 October 2026)
+- Trois vues focus (A: GT Ultra, B: Literata, C: GT Standard L) plus le mode comparatif côte à côte. (26 October 2026)
+- Accroche Matthieu (@zenray) isolée avec champ textarea éditable en direct dans le visualiseur. (26 October 2026)
+- Contrôles paramétriques complets : police, échelle de taille, interligne, espacement et graisse pour 6 catégories (Titres, Bio, Corps, Sous-titres, Interface, Nombres et Marque). (26 October 2026)
+- Copie en un clic des variables CSS :root ou de la configuration JSON pour le prompt. (26 October 2026)
+- Vérification automatisée réussie via Scripts/Verify.cjs (0 erreur, 0 débordement à 1440px et 390px, bascules instantanées). (26 October 2026)
+- Design archivé : /Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-website-works-typography-v2. (26 October 2026)
