@@ -215,3 +215,58 @@
 >
 >
 > ok go (26 October 2026, 17:03:04 +0100)
+
+## 26 October 2026, 17:11:55 +0100 : Iteration
+
+<!-- feedback-event:a428a9aa7ffc1ab0984890b5745eed7c4646ae0ece4051cb5533cd0afefd89ef (26 October 2026, 17:11:55 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:11:55 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:11:55 +0100)
+
+> Le déploiement de **matthieuhuguet.com** sur Cloudflare Pages est en cours d'envoi. Je t'informe dès qu'il est finalisé et vérifié en production. (26 October 2026, 17:11:55 +0100)
+
+## 26 October 2026, 17:12:24 +0100 : Iteration
+
+<!-- feedback-event:a833af3eed4b00ace57036c2c6ba9f0ed8813b1840171357f5620b04dce86c92 (26 October 2026, 17:12:24 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:12:24 +0100)
+
+> Intégration et déploiement réussis sur matthieuhuguet.com : tout en GT Ultra sur Works sauf la bio en GT Standard L (@zenray en GT Ultra), ZenRay en bold, boutons Louisiana Bayou et Texturing en GT Ultra, tableau élégant 3x2 (Core et Tools, Cursor retiré, taille uniforme et alignée), sous-titres de technologies retirés sur les cartes de galerie. (26 October 2026, 17:12:24 +0100)
+
+## 26 October 2026, 17:12:33 +0100 : Iteration
+
+<!-- feedback-event:f462ba2db7a148f1c286368ecaa89e80a3322d0abda3ee50b9a1004982ac24c0 (26 October 2026, 17:12:33 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:12:33 +0100)
+- Source: checkpoint:antigravity:47db1439-795e-40c8-afd3-9e2e0fedb666. (26 October 2026, 17:12:33 +0100)
+
+> Déploiement production matthieuhuguet.com : Works en GT Ultra, bio en GT Standard L (@zenray en GT Ultra), marque ZenRay en bold, boutons hero en GT Ultra, tableau élégant 3x2 Core et Tools sans Cursor, cartes de galerie épurées sans sous-titres. (26 October 2026, 17:12:33 +0100)
+
+## 26 October 2026, 17:12:58 +0100 : Iteration
+
+<!-- feedback-event:145015c8f7a8cb03b637b3067a3865b8d0294f4e11e72ccf08929a49d17db2e7 (26 October 2026, 17:12:58 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:12:58 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:12:58 +0100)
+
+> Toutes les modifications demandées ont été appliquées, vérifiées en local, construites et déployées en production sur Cloudflare Pages pour [matthieuhuguet.com](https://matthieuhuguet.com/). (26 October 2026, 17:12:58 +0100)
+>
+> ### Modifications apportées (26 October 2026, 17:12:58 +0100)
+>
+> 1. **Typographie GT Ultra globale sur Works** : (26 October 2026, 17:12:58 +0100)
+>    - Les polices `GT Ultra` et `GT Standard L` ont été ajoutées dans [`/Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/public/fonts/`](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/public/fonts/) et déclarées dans [`src/fonts.css`](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/src/fonts.css). (26 October 2026, 17:12:58 +0100)
+>    - Les titres, boutons, catégories et éléments d'interface utilisent désormais GT Ultra. (26 October 2026, 17:12:58 +0100)
+>
+> 2. **Boutons hero « Louisiana Bayou » et « Texturing »** : (26 October 2026, 17:12:58 +0100)
+>    - Basculés en `GT Ultra` (400, majuscules discrètes). (26 October 2026, 17:12:58 +0100)
+>
+> 3. **Marque « ZenRay » dans la navigation** : (26 October 2026, 17:12:58 +0100)
+>    - Passée en `GT Ultra Bold` (graisse 700). (26 October 2026, 17:12:58 +0100)
+>
+> 4. **Bio Matthieu en GT Standard L avec `@zenray` en GT Ultra** : (26 October 2026, 17:12:58 +0100)
+>    - Le paragraphe de présentation reste en `GT Standard L` 400 pour un confort de lecture optimal. (26 October 2026, 17:12:58 +0100)
+>    - La mention `(@zenray)` est isolée et rendue en `GT Ultra`. (26 October 2026, 17:12:58 +0100)
+>
+> 5. **Tableau 6 icônes « Core » et « Tools »** : (26 October 2026, 17:12:58 +0100)
+>    - Remplacement de l'intitulé « Workflows, Automation, Tooling » par « Tools ». (26 October 2026, 17:12:58 +0100)
+>    - Les deux titres « Core » et « Tools » partagent exactement la même taille et la même police GT Ultra. (26 October 2026, 17:12:58 +0100)
+>    - Retrait de l'icône Cursor. (26 October 2026, 17:12:58 +0100)
+>    - Organisation en tableau 2x3 : 3 icônes pour Core (Houdini, Unreal Engine, Substance) et 3 icônes pour Tools (Claude Code, Codex, Git), alignées verticalement colonne par colonne dans un conteneur en verre doux. (26 October 2026, 17:12:58 +0100)
+>
+> 6. **Cartes (26 October 2026, 17:12:58 +0100)

@@ -23,3 +23,13 @@
 - Copie en un clic des variables CSS :root ou de la configuration JSON pour le prompt. (26 October 2026)
 - Vérification automatisée réussie via Scripts/Verify.cjs (0 erreur, 0 débordement à 1440px et 390px, bascules instantanées). (26 October 2026)
 - Design archivé : /Users/zenray/.claude/skills/zenray-edit/designs/2026-10-26-website-works-typography-v2. (26 October 2026)
+
+## Déploiement en production sur matthieuhuguet.com (26 October 2026)
+
+- Déploiement Cloudflare Pages vérifié HTTP 200 sur matthieuhuguet.com. (26 October 2026)
+- Typographie de la page Works basculée en GT Ultra (titres, marque, boutons et interface). (26 October 2026)
+- Exception bio : paragraphe d'introduction en GT Standard L, avec @zenray en GT Ultra. (26 October 2026)
+- Marque ZenRay dans la barre de navigation passée en GT Ultra Bold (700). (26 October 2026)
+- Boutons Louisiana Bayou et Texturing du hero passés en GT Ultra. (26 October 2026)
+- Stack technique réorganisée en tableau élégant 3x2 aligné : ligne Core (Houdini, Unreal, Substance) et ligne Tools (Claude Code, Codex, Git), icône Cursor retirée, titres Core et Tools à taille identique en GT Ultra. (26 October 2026)
+- Cartes de galerie épurées : sous-titres de technologies retirés, seuls les titres des projets s'affichent en GT Ultra. (26 October 2026)

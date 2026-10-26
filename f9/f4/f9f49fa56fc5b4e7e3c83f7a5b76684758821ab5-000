@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-website-26-october-2026",
- "scannedAt": "2026-10-26T16:03:56.929Z",
+ "scannedAt": "2026-10-26T16:13:54.711Z",
  "conversations": [
   {
    "projectId": "zenray-website-26-october-2026",
@@ -30,25 +30,25 @@
    "conversationId": "gemini:47db1439-795e-40c8-afd3-9e2e0fedb666",
    "provider": "gemini",
    "sessionId": "47db1439-795e-40c8-afd3-9e2e0fedb666",
-   "title": "Conversation Gemini 47db1439",
-   "updatedAt": "2026-10-26T16:03:46.793Z",
-   "bytes": 13180760,
+   "title": "depuis cette conversation lis le contexte : codex://threads/01a178bf-e894-7953-ae90-19152837f180 Et il y avait déjà du coup un document HTML",
+   "updatedAt": "2026-10-26T16:12:58.236470+00:00",
+   "bytes": 5832704,
    "boundProject": "zenray-website-26-october-2026"
   },
   {
    "projectId": "zenray-website-26-october-2026",
-   "lines": 2,
+   "lines": 5,
    "work": 0,
    "prompts": 0,
    "first": "2026-10-26T15:14:44.431Z",
-   "last": "2026-10-26T15:37:03.335Z",
+   "last": "2026-10-26T16:13:11.477Z",
    "strength": "weak",
    "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-26T16:03:46.244Z",
-   "bytes": 424622018,
+   "updatedAt": "2026-10-26T16:13:52.788Z",
+   "bytes": 431880029,
    "boundProject": "zenray-meshes"
   }
  ]
