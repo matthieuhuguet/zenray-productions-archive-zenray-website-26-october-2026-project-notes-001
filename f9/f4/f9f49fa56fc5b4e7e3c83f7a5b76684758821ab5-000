@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-website-26-october-2026",
- "scannedAt": "2026-10-26T16:45:59.110Z",
+ "scannedAt": "2026-10-26T16:48:00.371Z",
  "conversations": [
   {
    "projectId": "zenray-website-26-october-2026",
@@ -32,23 +32,23 @@
    "sessionId": "47db1439-795e-40c8-afd3-9e2e0fedb666",
    "title": "depuis cette conversation lis le contexte : codex://threads/01a178bf-e894-7953-ae90-19152837f180 Et il y avait déjà du coup un document HTML",
    "updatedAt": "2026-10-26T16:45:08.289298+00:00",
-   "bytes": 44424720,
+   "bytes": 11730944,
    "boundProject": "zenray-website-26-october-2026"
   },
   {
    "projectId": "zenray-website-26-october-2026",
-   "lines": 6,
+   "lines": 7,
    "work": 0,
    "prompts": 0,
    "first": "2026-10-26T15:14:44.431Z",
-   "last": "2026-10-26T16:25:26.343Z",
+   "last": "2026-10-26T16:46:58.453Z",
    "strength": "weak",
    "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-26T16:45:52.952Z",
-   "bytes": 439199341,
+   "updatedAt": "2026-10-26T16:47:51.456Z",
+   "bytes": 439776887,
    "boundProject": "zenray-meshes"
   }
  ]
