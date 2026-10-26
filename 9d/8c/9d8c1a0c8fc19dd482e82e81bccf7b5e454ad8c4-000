@@ -347,3 +347,13 @@
 > 1. **Alignement et maintien de la photo à droite** : (26 October 2026, 17:45:08 +0100)
 >    - Dans [App.jsx](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/src/App.jsx), le conteneur de la photo utilise désormais `alignSelf: "flex-start"` (au lieu de `center`) avec une marge compensant la gouttière des croix techniques (`marginTop: -40px`). (26 October 2026, 17:45:08 +0100)
 >    - Le haut de la boîte photo (549 px) coïncide au pixel près avec le haut du titre `Matthieu Huguet` (549 px, écart mesuré : (26 October 2026, 17:45:08 +0100)
+
+## 26 October 2026, 17:42:07 +0100 : Prompt
+
+<!-- feedback-event:b6b7e4fedb1bd9f2794c6862945070a5e09a39f5a6affd1af63e270042f141fe (26 October 2026, 17:42:07 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 17:42:07 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:42:07 +0100)
+
+> Pour zenray.studio pareil Ouais, il faut que tu mettes en place le protocole qui fait que du coup tous les titres seront en GT Ultra et tout le reste sera directement en... un GT standard L, je pense. (26 October 2026, 17:42:07 +0100)
+>
+> mets un panneau en mode chantier en construction avec une petite animation juste en dessous du panneau ZenRay Studio où il y a marqué Assets, Collection, Service et Journal. "site en construction" en anglais avec le protocole d'un site qui serait en construction, etc. convention des sites internet (26 October 2026, 17:42:07 +0100)
