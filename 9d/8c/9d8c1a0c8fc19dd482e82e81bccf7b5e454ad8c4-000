@@ -357,3 +357,43 @@
 > Pour zenray.studio pareil Ouais, il faut que tu mettes en place le protocole qui fait que du coup tous les titres seront en GT Ultra et tout le reste sera directement en... un GT standard L, je pense. (26 October 2026, 17:42:07 +0100)
 >
 > mets un panneau en mode chantier en construction avec une petite animation juste en dessous du panneau ZenRay Studio où il y a marqué Assets, Collection, Service et Journal. "site en construction" en anglais avec le protocole d'un site qui serait en construction, etc. convention des sites internet (26 October 2026, 17:42:07 +0100)
+
+## 26 October 2026, 17:54:13 +0100 : Iteration
+
+<!-- feedback-event:ad5b0b3614b10150bce40f535f4aac798cecbe560f2c45df2adaf9a0be0a68a4 (26 October 2026, 17:54:13 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:54:13 +0100)
+
+> Mise à niveau de zenray.studio : adoption du protocole typographique avec GT Ultra pour les titres, la marque et les boutons, GT Standard L pour le corps et l'UI. Intégration du bandeau chantier sous la barre de navigation avec ruban hachuré animé, balise pulsante et texte d'annonce en anglais. Déploiement Cloudflare Pages vérifié en production. (26 October 2026, 17:54:13 +0100)
+
+## 26 October 2026, 17:54:21 +0100 : Iteration
+
+<!-- feedback-event:4dfecb2eafa6aa330f0fc08e24e0fc66d954502b98890185bed25680d7dc05b5 (26 October 2026, 17:54:21 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:54:21 +0100)
+- Source: checkpoint:antigravity:47db1439-795e-40c8-afd3-9e2e0fedb666. (26 October 2026, 17:54:21 +0100)
+
+> ZenRay Studio typographie GT Ultra et GT Standard L, bandeau chantier avec animation (26 October 2026, 17:54:21 +0100)
+
+## 26 October 2026, 17:54:29 +0100 : Iteration
+
+<!-- feedback-event:06d6d0e1644ec5978bf08fc68e95f33cdbb55b94272ffc52b764cc305dcb6af8 (26 October 2026, 17:54:29 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:54:29 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:54:29 +0100)
+
+> Le protocole typographique et le panneau de chantier sont en ligne sur [zenray.studio](https://zenray.studio) : (26 October 2026, 17:54:29 +0100)
+>
+> 1. **Protocole typographique sur ZenRay Studio** : (26 October 2026, 17:54:29 +0100)
+>    - Fichiers de polices [GT-Ultra-Regular.woff2](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayStudio/site/fonts/GT-Ultra-Regular.woff2), [GT-Ultra-Bold.woff2](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayStudio/site/fonts/GT-Ultra-Bold.woff2), [GT-Standard-L-Regular.woff2](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayStudio/site/fonts/GT-Standard-L-Regular.woff2) et [GT-Standard-L-Bold.woff2](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayStudio/site/fonts/GT-Standard-L-Bold.woff2) intégrés dans le dossier du site. (26 October 2026, 17:54:29 +0100)
+>    - Dans [index.html](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayStudio/site/index.html), tous les titres (`.hero h1`, `.section-title`, `.featured-title`, `.collection-title`, `.card-title`, `.service-title`, `.post-title`), la marque `ZenRay` (poids 700) et les boutons utilisent **GT Ultra**. (26 October 2026, 17:54:29 +0100)
+>    - Tout le reste (corps de texte, chapô `.lede`, descriptions de collections et services, navigation, filtres, métadonnées) utilise **GT Standard L**. (26 October 2026, 17:54:29 +0100)
+>    - Les chiffres et prix utilisent **GT Ultra** avec alignement tabulaire. (26 October 2026, 17:54:29 +0100)
+>
+> 2. **Panneau chantier avec animation sous la barre de navigation** : (26 October 2026, 17:54:29 +0100)
+>    - Positionné directement sous le bandeau d'en-tête (qui porte `ZenRay Studio`, `Assets`, `Collections`, `Services`, `Journal`), à `y = 69 px`. (26 October 2026, 17:54:29 +0100)
+>    - Ruban supérieur de hachures de sécurité en défilement continu animé (`@keyframes constructionTapeScroll`). (26 October 2026, 17:54:29 +0100)
+>    - Balise avec voyant lumineux orange clignotant (`@keyframes constructionPulse`) et libellé en GT Ultra Bold : `SITE UNDER CONSTRUCTION`. (26 October 2026, 17:54:29 +0100)
+>    - Message en anglais respectant les standards des studios créatifs : *« Digital storefront and procedural asset pipelines are currently being assembled. Direct inquiries remain open via Hire the studio. »* avec lien direct vers la section contact. (26 October 2026, 17:54:29 +0100)
+>    - Adaptation automatique aux modes clair et sombre. (26 October 2026, 17:54:29 +0100)
+>
+> | Ce que tu voulais | Fait | Comment je le sais | (26 October 2026, 17:54:29 +0100)
+> |---|---|---| (26 October 2026, 17:54:29 +0100)
+> | Titres en GT Ultra et corps en GT Standard L sur zenray.studio | Fait (26 October 2026, 17:54:29 +0100)
