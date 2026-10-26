@@ -270,3 +270,37 @@
 >    - Organisation en tableau 2x3 : 3 icônes pour Core (Houdini, Unreal Engine, Substance) et 3 icônes pour Tools (Claude Code, Codex, Git), alignées verticalement colonne par colonne dans un conteneur en verre doux. (26 October 2026, 17:12:58 +0100)
 >
 > 6. **Cartes (26 October 2026, 17:12:58 +0100)
+
+## 26 October 2026, 17:21:15 +0100 : Prompt
+
+<!-- feedback-event:e808f91af3c27b2b67c7b0c20cd880d33fdc2b1bfc19576c876235976a2f0a8e (26 October 2026, 17:21:15 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 17:21:15 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:21:15 +0100)
+
+> Je crois que tu as fait une régression dans le code parce que la photo actuellement c'est pas la bonne.  ??? pourquoi ? fais en sorte que ce soit la bonne nouvelle Fais attention aux anciennes branches et publie correctement. Et en plus, sur ZenRay, t'as pas mis bold. sur la marque (26 October 2026, 17:21:15 +0100)
+
+## 26 October 2026, 17:31:07 +0100 : Iteration
+
+<!-- feedback-event:d05f0c402d07c92040e2aba169bfa31fbefa144638b6ab1d4e69e15ff444d6c3 (26 October 2026, 17:31:07 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:31:07 +0100)
+
+> Restauration du portrait studio (matthieuimg2.png, me.webp 56KB, hash 6f099fa33e), marque ZenRay en GT Ultra Bold (700) avec police woff2 intégrée, tableau 3x2 Core & Tools sans Cursor, bio en GT Standard L avec @zenray en GT Ultra, cartes projets épurées sans tags. Déploiement en ligne et vérification Playwright live sans erreur. (26 October 2026, 17:31:07 +0100)
+
+## 26 October 2026, 17:31:35 +0100 : Iteration
+
+<!-- feedback-event:6ed7c9d4b328b8df7b05203c18f710aa902c3ee3114f4821d657438f202f5a24 (26 October 2026, 17:31:35 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:31:35 +0100)
+- Source: checkpoint:antigravity:47db1439-795e-40c8-afd3-9e2e0fedb666. (26 October 2026, 17:31:35 +0100)
+
+> Restauration du portrait studio, GT Ultra Bold 700 sur la marque ZenRay, deploiement Cloudflare Pages reussi et verifie en direct (26 October 2026, 17:31:35 +0100)
+
+## 26 October 2026, 17:31:44 +0100 : Iteration
+
+<!-- feedback-event:0f807d622609a68c871e06fcdf1fac8138e2f446e0bac6d9de30fbcda1f4a659 (26 October 2026, 17:31:44 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:31:44 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:31:44 +0100)
+
+> La cause de la régression et les correctifs apportés : (26 October 2026, 17:31:44 +0100)
+>
+> 1. **Photo de profil (portrait)** : Le dépôt local était en retard de 13 commits sur `origin/master`. Le nouveau portrait studio (`matthieuimg2.png`, [me.webp](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/public/me.webp) de 56 890 octets) et son brise-cache automatique (`?v=6f099fa33e`) vivaient sur `origin/master`. Le pull a synchronisé la branche, et la nouvelle photo est maintenant active. (26 October 2026, 17:31:44 +0100)
+> 2. **Marque ZenRay en gras** : `GT-Ultra-Standard-Bold.otf` a été encodé en woff2 ([GT-Ultra-Bold.woff2](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/public/fonts/GT-Ultra-Bold.woff2)) et déclaré avec `font-weight: 7 (26 October 2026, 17:31:44 +0100)
