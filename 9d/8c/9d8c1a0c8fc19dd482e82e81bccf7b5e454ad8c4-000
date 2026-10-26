@@ -304,3 +304,46 @@
 >
 > 1. **Photo de profil (portrait)** : Le dépôt local était en retard de 13 commits sur `origin/master`. Le nouveau portrait studio (`matthieuimg2.png`, [me.webp](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/public/me.webp) de 56 890 octets) et son brise-cache automatique (`?v=6f099fa33e`) vivaient sur `origin/master`. Le pull a synchronisé la branche, et la nouvelle photo est maintenant active. (26 October 2026, 17:31:44 +0100)
 > 2. **Marque ZenRay en gras** : `GT-Ultra-Standard-Bold.otf` a été encodé en woff2 ([GT-Ultra-Bold.woff2](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/public/fonts/GT-Ultra-Bold.woff2)) et déclaré avec `font-weight: 7 (26 October 2026, 17:31:44 +0100)
+
+## 26 October 2026, 17:37:18 +0100 : Prompt
+
+<!-- feedback-event:9051f3f14ede01e76c0a11f5823efd82df2932f8083dd29c01ddb4943c45076d (26 October 2026, 17:37:18 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 17:37:18 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:37:18 +0100)
+
+> Par contre, il faudrait que la photo à droite soit alignée avec le fond de... avec le haut de Mathieu Huguet, je pense. Mais qu'elle soit peut-être à la même taille. Ce serait parfait. Mais elle doit rester à droite, attention. (26 October 2026, 17:37:18 +0100)
+
+## 26 October 2026, 17:39:31 +0100 : Prompt
+
+<!-- feedback-event:962fa16bd24591d6c0cfa7b772bf407fcbc510b885acb86cedd7796dbc9d5b66 (26 October 2026, 17:39:31 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 17:39:31 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:39:31 +0100)
+
+> Pour Louisiana Bayou et pour texturing, faut que tu mettes en... tu mettes la fonte en bold, sinon on la verra pas suffisamment. En fait, il faut que ce soit la même interface que les boutons. Même Available for Freelance, je pense que c'est un bouton et que tu peux le mettre en... En GT Ultra... GT Ultra Bold, du coup, je pense. Et tu peux appliquer ça sur tous les boutons qui sont orange. Donc les boutons importants. (26 October 2026, 17:39:31 +0100)
+
+## 26 October 2026, 17:44:46 +0100 : Iteration
+
+<!-- feedback-event:fe9f539a0daf336ad879f508db93472b650ef6476a28d51329aba9dfdd14b64c (26 October 2026, 17:44:46 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:44:46 +0100)
+
+> Alignement du haut de la photo à droite avec le haut de Matthieu Huguet (top 549px, même taille 220x220), passage des boutons hero (Louisiana Bayou, Texturing) et de tous les boutons orange/primary (Available for freelance, Plan a call) en GT Ultra Bold (700). Déploiement Cloudflare Pages vérifié en production. (26 October 2026, 17:44:46 +0100)
+
+## 26 October 2026, 17:44:54 +0100 : Iteration
+
+<!-- feedback-event:840b98dd71eab00b61e4321d3350c88adee2d0b8211948d39b92469c46b3ed0d (26 October 2026, 17:44:54 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:44:54 +0100)
+- Source: checkpoint:antigravity:47db1439-795e-40c8-afd3-9e2e0fedb666. (26 October 2026, 17:44:54 +0100)
+
+> Alignement haut photo et Matthieu Huguet, boutons orange en GT Ultra Bold 700 (26 October 2026, 17:44:54 +0100)
+
+## 26 October 2026, 17:45:08 +0100 : Iteration
+
+<!-- feedback-event:7662f1f758c7c821a94292a7e28d5c8dfef943ab0b54789930edfd24eacba459 (26 October 2026, 17:45:08 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 17:45:08 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/47db1439-795e-40c8-afd3-9e2e0fedb666.db. (26 October 2026, 17:45:08 +0100)
+
+> Les deux ajustements demandés sont en ligne et vérifiés en direct sur le site de production : (26 October 2026, 17:45:08 +0100)
+>
+> 1. **Alignement et maintien de la photo à droite** : (26 October 2026, 17:45:08 +0100)
+>    - Dans [App.jsx](file:///Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite/src/App.jsx), le conteneur de la photo utilise désormais `alignSelf: "flex-start"` (au lieu de `center`) avec une marge compensant la gouttière des croix techniques (`marginTop: -40px`). (26 October 2026, 17:45:08 +0100)
+>    - Le haut de la boîte photo (549 px) coïncide au pixel près avec le haut du titre `Matthieu Huguet` (549 px, écart mesuré : (26 October 2026, 17:45:08 +0100)
