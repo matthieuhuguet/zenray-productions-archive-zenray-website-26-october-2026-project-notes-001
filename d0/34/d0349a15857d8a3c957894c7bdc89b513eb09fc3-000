@@ -1,0 +1,27 @@
+# Resume zenray-website-26-october-2026 (26 October 2026 at 16:10)
+
+- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (26 October 2026 at 16:10)
+- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/zenray-website-26-october-2026/Rules.md) (0 rules). (26 October 2026 at 16:10)
+- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-website-26-october-2026/FEEDBACK.md), 2 entries, last Prompt at 26 October 2026, 16:10:03 +0100. (26 October 2026 at 16:10)
+
+## Latest conversations (26 October 2026 at 16:10)
+
+- LATEST codex:01a178bf-e894-7953-ae90-19152837f180, last activity 26 October 2026 at 16:10 Paris (from feedback). Original: `node scripts/Assets/ConversationDigest.mjs codex:01a178bf-e894-7953-ae90-19152837f180 --out <file.md>`. (26 October 2026 at 16:10)
+
+## Last 6 prompts of Matthieu, oldest first (26 October 2026 at 16:10)
+
+### 26 October 2026, 16:10:03 +0100 · Prompt · codex:01a178bf
+
+> [$zenray-website](/Users/zenray/.codex/skills/zenray-website/SKILL.md) [$zenray-resume-coordinator](/Users/zenray/.codex/skills/zenray-resume-coordinator/SKILL.md) [$zenray-assets](/Users/zenray/.codex/skills/zenray-assets/SKILL.md) Donc, on va reprendre le code de mon website. Donc, soit tu fais en sorte d'avoir un... tu fais un resume coordinator par rapport à ZenRay Assets, soit, soit directement tu crées le projet et tu bindes toutes les choses qui étaient liées s'il n'y a pas de projet Assets déjà existant pour ce projet. Et donc, ce que j'aimerais faire directement là aujourd'hui, c'est que tu prennes les règles de typographie et que tu les appliques à mon site uniquement pour la page 
+> [... 1400 more characters in FEEDBACK.md]
+
+
+## Last 3 iterations or checkpoints (26 October 2026 at 16:10)
+
+- None recorded. (26 October 2026 at 16:10)
+
+## Last order of work (26 October 2026 at 16:10)
+
+- None recorded. (26 October 2026 at 16:10)
+
+Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (26 October 2026 at 16:10)

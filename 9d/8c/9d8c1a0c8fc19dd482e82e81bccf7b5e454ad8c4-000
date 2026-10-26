@@ -1,0 +1,53 @@
+# zenray-website-26-october-2026 : project feedback, append only (26 October 2026, 16:10:53 +0100)
+
+## 26 October 2026, 16:10:53 +0100 : Log
+
+<!-- feedback-event:e0c3ef7a72a2bd7349c8b706467a5e9d5b57682f65d2587c0eb5c7cfc75f4d9f (26 October 2026, 16:10:53 +0100) -->
+- Project: zenray-website-26-october-2026; kind: log. (26 October 2026, 16:10:53 +0100)
+
+> Project initialized: ZenRayWebsite. Workshop: /Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026. (26 October 2026, 16:10:53 +0100)
+
+## 26 October 2026, 16:10:03 +0100 : Prompt
+
+<!-- feedback-event:d986f2503dfdd05437b9d55fee9230840877bcaa86510bd1d534d4fd56c67ac7 (26 October 2026, 16:10:03 +0100) -->
+- Project: zenray-website-26-october-2026; kind: prompt. (26 October 2026, 16:10:03 +0100)
+- Source: /Users/zenray/.codex/sessions/2026/10/26/rollout-2026-10-26T16-06-45-01a178bf-e894-7953-ae90-19152837f180.jsonl. (26 October 2026, 16:10:03 +0100)
+
+> [$zenray-website](/Users/zenray/.codex/skills/zenray-website/SKILL.md) [$zenray-resume-coordinator](/Users/zenray/.codex/skills/zenray-resume-coordinator/SKILL.md) [$zenray-assets](/Users/zenray/.codex/skills/zenray-assets/SKILL.md) Donc, on va reprendre le code de mon website. Donc, soit tu fais en sorte d'avoir un... tu fais un resume coordinator par rapport à ZenRay Assets, soit, soit directement tu crées le projet et tu bindes toutes les choses qui étaient liées s'il n'y a pas de projet Assets déjà existant pour ce projet. Et donc, ce que j'aimerais faire directement là aujourd'hui, c'est que tu prennes les règles de typographie et que tu les appliques à mon site uniquement pour la page Works pour être sûr que les choses fonctionnent bien. Donc, c'est-à-dire que les titres du coup deviennent GT Ultra. Les titres deviennent GT Ultra. Le corps devient Literata. Et tout le reste de l'UI devient GT Standard L. Donc je te laisse itérer pour que ça fonctionne parfaitement.&#x20; (26 October 2026, 16:10:03 +0100)
+> J'aimerais aussi tester un toggle qui mettrait j'étais America ou j'étais standard L. Et ensuite, évidemment, là, tu fais juste un mock-up avec trois propositions via Edit, via ZenRay Edit. Et comment dire? Comment dire? Et voilà, tu peux aussi tester plusieurs. Tu peux aussi tester les titres en Literata ou tester les titres en GT Standard L aussi. Ou alors me proposer un slider ou un menu qui me permet de swap les fontes. Et voilà. Et sinon, il n'y a pas de contenu à changer, c'est vraiment juste sur les fontes du titre. Donc par exemple aussi le ZenRay qui était actuellement en Inter, tu peux le mettre en GT Ultra et me proposer en fait de pouvoir changer mes titres. Mais c'est les seules choses à peu près qui changent sur le site. Go! (26 October 2026, 16:10:03 +0100)
+>
+> [$zenray-edit](/Users/zenray/.codex/skills/zenray-edit/SKILL.md) 3 propositions. Donc évidemment, il faut bind le projet aussi à via ZenRay Assets, il faut bind le projet website à ces nouveaux mockups du coup. Et tu fais un HTML classiquement du coup. il faut lire typographe depuis [$claude-md-global](/Users/zenray/.codex/skills/claude-md-global/SKILL.md) (26 October 2026, 16:10:03 +0100)
+
+## 26 October 2026, 16:15:26 +0100 : Standing rule
+
+<!-- feedback-event:33794d4c195ebb18f79062449d1f3aab6e069e59310673c5900cb9962b4f2776 (26 October 2026, 16:15:26 +0100) -->
+- Project: zenray-website-26-october-2026; kind: rule. (26 October 2026, 16:15:26 +0100)
+
+> Works uniquement : conserver le contenu et la mise en page ; comparer les titres GT Ultra, Literata et GT Standard L, corps Literata, nombres GT Ultra, interface GT Standard L avec alternative GT America. Maquettes HTML avant application au site. (26 October 2026, 16:15:26 +0100)
+
+## 26 October 2026, 16:16:00 +0100 : Iteration
+
+<!-- feedback-event:2d667eade8768dcba7e303cbde64f298d43294ac027f19e3f028dc8a58b8f2ab (26 October 2026, 16:16:00 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 16:16:00 +0100)
+- Source: checkpoint:codex:01a178bf-e894-7953-ae90-19152837f180. (26 October 2026, 16:16:00 +0100)
+
+> Three Works typography HTML proposals created, embedded fonts, independent title/brand/UI selectors including GT America, size slider and desktop/mobile. Isolated Chromium verification: all expected font faces loaded, unchanged text between variants, no horizontal overflow, no JavaScript errors. HTML filed through zenray-edit in both projects. Published site and dirty production files unchanged. Production repo linked as metadata reference only, outside watcher roots. Next: user chooses settings, then apply to Works only. (26 October 2026, 16:16:00 +0100)
+
+## 26 October 2026, 16:16:33 +0100 : Iteration
+
+<!-- feedback-event:6b9bdf9d625fe51034559cb941635680bfe68b12c148fe06d7d010d123d34515 (26 October 2026, 16:16:33 +0100) -->
+- Project: zenray-website-26-october-2026; kind: iteration. (26 October 2026, 16:16:33 +0100)
+- Source: /Users/zenray/.codex/sessions/2026/10/26/rollout-2026-10-26T16-06-45-01a178bf-e894-7953-ae90-19152837f180.jsonl. (26 October 2026, 16:16:33 +0100)
+
+> Les trois propositions sont prêtes : **A GT Ultra**, **B Literata**, **C GT Standard L** pour les titres. Chacune propose des menus pour les titres, « ZenRay » et l’interface, avec GT America disponible, un curseur de taille et les vues bureau/mobile. (26 October 2026, 16:16:33 +0100)
+>
+> | Ce que tu voulais | État | Preuve | (26 October 2026, 16:16:33 +0100)
+> |---|---|---| (26 October 2026, 16:16:33 +0100)
+> | Trois maquettes Works | Fait | Polices chargées, aucun débordement aux deux formats | (26 October 2026, 16:16:33 +0100)
+> | Contenu conservé | Fait | Textes identiques entre variantes, site publié inchangé | (26 October 2026, 16:16:33 +0100)
+> | Liaison Assets | Fait | Projet et conversation liés, maquettes classées dans Website et Edit | (26 October 2026, 16:16:33 +0100)
+> | Sauvegarde cloud | Attente | Envoi en file, pas encore confirmé | (26 October 2026, 16:16:33 +0100)
+>
+> Le dépôt du site est référencé dans Assets ; sa surveillance n’est pas activée. (26 October 2026, 16:16:33 +0100)
+>
+> [/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026/index.html](/Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026/index.html) (26 October 2026, 16:16:33 +0100)

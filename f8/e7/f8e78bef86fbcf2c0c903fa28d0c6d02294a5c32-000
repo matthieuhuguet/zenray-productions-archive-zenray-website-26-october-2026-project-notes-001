@@ -1,0 +1,15 @@
+# ZenRayWebsite : project knowledge (26 October 2026)
+
+- Project ID: zenray-website-26-october-2026. (26 October 2026)
+- Canonical feedback: /Users/zenray/.claude/Memory1/Projects/zenray-website-26-october-2026/FEEDBACK.md. (26 October 2026)
+- Append dated decisions and verified knowledge here; retain existing entries. (26 October 2026)
+
+## Works typography mockups (26 October 2026)
+
+- Production repository: /Users/zenray/Create/Build/Productions/GithubProductions/ZenRayWebsite ; public site https://matthieuhuguet.com. Existing uncommitted Louisiana Bayou work is preserved. (26 October 2026)
+- Current scope: three HTML typography proposals only, no content edit and no public deployment. Source is the published Works DOM captured at 1440 and 390 px, with its original images and text. (26 October 2026)
+- Editable delivery: /Users/zenray/.claude/tmp/tmp-zenray-website-26-october-2026/index.html ; A GT Ultra, B Literata, C GT Standard L headings, Literata body, GT Ultra numbers, GT Standard L interface; GT America selectable, brand independently selectable, title size slider, copy parameters, mobile and desktop, full width. (26 October 2026)
+- Rebuild: Scripts/Build.cjs reads TypographySettings.json and Snapshots.json in the workshop. Fonts are embedded; original images are served from the public website. The mockup is a visual snapshot, not a functional replacement for React navigation or accordions. (26 October 2026)
+- Verification: Scripts/Verify.cjs checks real loaded faces, title/body/UI/brand/number computed families, identical text between variants, zero horizontal overflow at 1440 and 390 px, GT America toggle, and zero JavaScript errors. Verification.json and Comparison.png retain the evidence. (26 October 2026)
+- Assets: workshop and canonical notes are registered watched sources. Production repository and website skill are linked as sourceReferences in the project registry, not watched or archived by Assets because the repository is outside its admitted roots. Existing Git history remains its backup; do not claim full repository cloud coverage. (26 October 2026)
+- Next: Matthieu compares the proposals and copies settings; then apply the chosen typography to Works only in React, verify locally before any deployment. (26 October 2026)

@@ -1,0 +1,39 @@
+{
+ "schemaVersion": 1,
+ "projectId": "zenray-website-26-october-2026",
+ "scannedAt": "2026-10-26T15:17:44.004Z",
+ "conversations": [
+  {
+   "projectId": "zenray-website-26-october-2026",
+   "lines": 46,
+   "work": 22,
+   "prompts": 0,
+   "first": "2026-10-26T15:10:58.659Z",
+   "last": "2026-10-26T15:16:33.517Z",
+   "strength": "strong",
+   "conversationId": "codex:01a178bf-e894-7953-ae90-19152837f180",
+   "provider": "codex",
+   "sessionId": "01a178bf-e894-7953-ae90-19152837f180",
+   "title": "Conversation codex 01a178bf",
+   "updatedAt": "2026-10-26T15:16:33.517Z",
+   "bytes": 3047007,
+   "boundProject": "zenray-website-26-october-2026"
+  },
+  {
+   "projectId": "zenray-website-26-october-2026",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-26T15:14:44.431Z",
+   "last": "2026-10-26T15:14:44.431Z",
+   "strength": "weak",
+   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "provider": "claude",
+   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "title": "zenray meshes",
+   "updatedAt": "2026-10-26T15:17:27.553Z",
+   "bytes": 410351162,
+   "boundProject": "zenray-meshes"
+  }
+ ]
+}
