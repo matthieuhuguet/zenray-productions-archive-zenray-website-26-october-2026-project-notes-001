@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-website-26-october-2026",
- "scannedAt": "2026-10-31T07:51:19.524Z",
+ "scannedAt": "2026-10-31T14:19:59.490Z",
  "conversations": [
   {
    "projectId": "zenray-website-26-october-2026",
@@ -30,8 +30,8 @@
    "conversationId": "gemini:47db1439-795e-40c8-afd3-9e2e0fedb666",
    "provider": "gemini",
    "sessionId": "47db1439-795e-40c8-afd3-9e2e0fedb666",
-   "title": "depuis cette conversation lis le contexte : codex://threads/01a178bf-e894-7953-ae90-19152837f180 Et il y avait déjà du coup un document HTML",
-   "updatedAt": "2026-10-26T16:54:29.250724+00:00",
+   "title": "Conversation Gemini 47db1439",
+   "updatedAt": "2026-10-26T16:55:18.826Z",
    "bytes": 12910592,
    "boundProject": "zenray-website-26-october-2026"
   },
